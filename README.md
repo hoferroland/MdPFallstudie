@@ -26,6 +26,6 @@ Fragen
 
 How to Contribute
 ====
-1. Clone
+1. Import 
 2. ...
 3. ...

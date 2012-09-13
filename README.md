@@ -11,7 +11,7 @@ Fragen
 
 * Welches ist das geeignet Build Tool fuer das Projekt
 
-    Als Build Tool wird maven verwende
+    Als Build Tool wird maven verwendet
 
 * Wie wird sichergestellt, dass alle Gruppenmitglieder das Projekt kompilieren koennen
 

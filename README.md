@@ -26,6 +26,7 @@ Fragen
 
 How to Contribute
 ====
-1. Import 
-2. ...
-3. ...
+1. Let yourself add as collaborator to github
+2. Clone repository
+3. open eclipse, import, import existing maven project, point to your cloned
+   repository
